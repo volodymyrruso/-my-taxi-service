@@ -31,5 +31,7 @@ This is a simple project to show my Java, JDBC, WEB, OOP, and SOLID skills. In t
 4. Configure Apache Tomcat version: 9.0.50
 5. Write your properties to ConnectionUtil class:
 <img width="688" alt="image" src="https://github.com/volodymyrruso/-my-taxi-service/assets/130042707/fc4d3061-3f2a-408f-9f24-a6db8d17f569">
+
 6. Copy and run SQL script from resources/init_db.sql in order to create a schema and tables for the project
+
 7. Run the project
