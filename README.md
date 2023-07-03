@@ -1,29 +1,29 @@
 ﻿# taxi-service
 This is a simple project to show my Java, JDBC, WEB, OOP, and SOLID skills. In this project, I used basic CRUD operations. One-to-one, one-to-many, and many-to-many relationships are used in databases.
 # Available functionality 
-register as a driver;
-login as driver;
-create/update/delete a driver;
-display all drivers
-create/update/delete a car;
-display all cars;
-create/update/delete a manufacturer;
-display all manufacturers;
-add a driver to a car;
-display all cars for current login driver;
+-register as a driver;
+-login as driver;
+-create/update/delete a driver;
+-display all drivers
+-create/update/delete a car;
+-display all cars;
+-create/update/delete a manufacturer;
+-display all manufacturers;
+-add a driver to a car;
+-display all cars for current login driver;
 # Project structure 
-Controller - accepts requests from the user, passes them to the service layer, and returns jsp pages in response
-Service - accepts requests from the controller, passes them to the DAO layer, and performs all business logic
-DAO - accepts requests from the service, passes them to the DB, and executes all sql queries
+-Controller - accepts requests from the user, passes them to the service layer, and returns jsp pages in response
+-Service - accepts requests from the controller, passes them to the DAO layer, and performs all business logic
+-DAO - accepts requests from the service, passes them to the DB, and executes all sql queries
 # Technologies:
-Tomcat 9.0.50
-Maven 3.1.1
-MySQL 8.0.22
-JDBC
-Java 11
-JSP
-JSTL 1.2
-Servlet Api 4.0.1
+-Tomcat 9.0.50
+-Maven 3.1.1
+-MySQL 8.0.22
+-JDBC
+-Java 11
+-JSP
+-JSTL 1.2
+-Servlet Api 4.0.1
 # Installation:
 Fork this project to your repository
 Press "Code" and choose HTTPS or SSH URL to clone the project
